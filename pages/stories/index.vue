@@ -3,7 +3,7 @@
     <h1>Top stories from HackerNews</h1>
 
     <div class="stories-bg">
-      <img src="/dummy.webp" />
+      <img src="/dummy.webp" alt="Story Thumbnail" loading="lazy" />
     </div>
 
     <div class="stories-grid" ref="gridContainer">
