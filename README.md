@@ -15,6 +15,17 @@ A responsive web application that fetches and displays top stories from the Hack
 - Accessibility compliant (WCAG 2.1 AA).
 
 ---
+## Roadmap
+
+- Minify and compress assets
+- Add lazy-loading
+- Optimize API calls to reduce requests
+- Add debounce for infinite loader
+- Make better use of variables in css
+- Implement better loading, animations and interactions
+- Check all titles, meta tags, alt images, html semantics
+
+---
 
 ## Prerequisites
 
