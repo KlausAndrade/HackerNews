@@ -31,8 +31,8 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/KlausAndrade/HackerNews.git HackerNews
+   cd HackerNews
    ```
 
 2. **Install Dependencies**
