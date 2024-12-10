@@ -16,7 +16,6 @@
   </nav>
 </template>
 <style scoped>
-/* Navbar Block */
 .navbar {
   color: #244164;
   padding: 1rem 0;
@@ -24,7 +23,6 @@
   border-bottom: 1px solid #ddd;
 }
 
-/* Navbar Container */
 .navbar__container {
   display: flex;
   justify-content: space-between;
@@ -34,13 +32,11 @@
   padding: 0 1rem;
 }
 
-/* Navbar Title */
 .navbar__title {
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-/* Navbar Links */
 .navbar__links {
   list-style: none;
   display: flex;
